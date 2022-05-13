@@ -164,12 +164,21 @@
 }
 
 @media(min-width:540px){
+
+   
     .main__skillset{
         flex: 30%;
         padding-left: 70px;
         padding-top: 170px;
-       
+      
     
     }
+    
 
+}
+
+@media(min-width: 1000px){
+    .main{
+        margin-left: 20%;
+    }
 }
