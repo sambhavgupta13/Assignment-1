@@ -80,6 +80,7 @@
 .main__skillset__projects ul li{
    flex: 50%;
    font-size: 10pt;
+   padding: 5px;
    
 }
 
@@ -154,6 +155,7 @@
         .main__skillset__projects ul li{
             flex: 100%;
             font-size: 12pt;
+            padding: 5px;
         }
     .main__information__details__name--styled{
        
